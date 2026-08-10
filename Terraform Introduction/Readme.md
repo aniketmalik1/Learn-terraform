@@ -2,7 +2,6 @@
 
 A beginner-friendly Terraform learning module covering Infrastructure as Code concepts, Terraform architecture, core components, installation prerequisites, commands, workflow, and Terraform configuration files for AWS and Microsoft Azure.
 
-This README is based on the training material in `Module-2 Terraform Introduction.pdf` and has been extended with Azure-specific Terraform details.
 
 ## Table of Contents
 
