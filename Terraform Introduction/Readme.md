@@ -1,6 +1,6 @@
  Terraform Introduction
 
-A beginner-friendly Terraform learning module covering Infrastructure as Code concepts, Terraform architecture, core components, installation prerequisites, commands, workflow, and Terraform configuration files for AWS and Microsoft Azure.
+A beginner-friendly Terraform learning module covering Infrastructure as Code concepts, Terraform architecture, core components, installation prerequisites, commands, workflow, and Terraform configuration files for AWS, google cloud and Microsoft Azure.
 
 
 ## Table of Contents
