@@ -528,8 +528,4 @@ Benefits:
 - Module-5_Terraform_Modules_and_Workspace Training Material
 
 ---
-
-## License
-
-This repository is intended for learning, demonstration, and internal training purposes.
 `
