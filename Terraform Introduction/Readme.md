@@ -619,12 +619,6 @@ terraform destroy
 - [Terraform on Azure Documentation](https://learn.microsoft.com/en-us/azure/developer/terraform/)
 - [Terraform AzureRM Backend Documentation](https://developer.hashicorp.com/terraform/language/backend/azurerm)
 
-## License
 
-Add your project license here.
 
-Example:
-
-```text
-MIT License
 ```
